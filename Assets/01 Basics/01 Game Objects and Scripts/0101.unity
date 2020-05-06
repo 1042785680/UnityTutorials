@@ -1426,9 +1426,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 564d2ea738a79e6429ba2a3ab4dfd2b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hoursTransform: {fileID: 0}
-  minutesTransform: {fileID: 0}
-  secondsTransform: {fileID: 0}
+  hoursTransform: {fileID: 1423007937}
+  minutesTransform: {fileID: 2026988370}
+  secondsTransform: {fileID: 309121758}
+  continuous: 0
 --- !u!1 &1586312787
 GameObject:
   m_ObjectHideFlags: 0
