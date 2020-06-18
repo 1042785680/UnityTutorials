@@ -22,8 +22,15 @@
             <e p="Fractal.cs" t="Include" />
           </e>
           <e p="05 Frames Per Second" t="Include">
+            <e p="FPSCounter.cs" t="Include" />
+            <e p="FPSDisplay.cs" t="Include" />
             <e p="Nucleon.cs" t="Include" />
             <e p="NucleonSpawner.cs" t="Include" />
+          </e>
+        </e>
+        <e p="02 Movement" t="Include">
+          <e p="01 Sliding a Sphere" t="Include">
+            <e p="MovingSphere.cs" t="Include" />
           </e>
         </e>
       </e>

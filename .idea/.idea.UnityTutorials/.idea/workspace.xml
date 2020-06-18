@@ -17,7 +17,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/01 Basics/02 Building a Graph/ColoredPoint.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01 Basics/04 Constructing a Fractal/Fractal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01 Basics/01 Game Objects and Scripts/Clock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/01 Basics/05 Frames Per Second/FPSCounter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01 Basics/05 Frames Per Second/Nucleon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/02 Movement/01 Sliding a Sphere/MovingSphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/01 Basics/05 Frames Per Second/FPSDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/01 Basics/05 Frames Per Second/NucleonSpawner.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -32,6 +35,9 @@
         <option value="$PROJECT_DIR$/Assets/01 Basics/04 Constructing a Fractal/Fractal.cs" />
         <option value="$PROJECT_DIR$/Assets/01 Basics/05 Frames Per Second/Nucleon.cs" />
         <option value="$PROJECT_DIR$/Assets/01 Basics/05 Frames Per Second/NucleonSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/01 Basics/05 Frames Per Second/FPSCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/01 Basics/05 Frames Per Second/FPSDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/02 Movement/01 Sliding a Sphere/MovingSphere.cs" />
       </list>
     </option>
   </component>
@@ -92,7 +98,9 @@
       <option name="presentableId" value="Default" />
       <updated>1588237619545</updated>
       <workItem from="1588237620895" duration="805000" />
-      <workItem from="1588728121131" duration="19846000" />
+      <workItem from="1588728121131" duration="19894000" />
+      <workItem from="1590049932308" duration="5605000" />
+      <workItem from="1592462277659" duration="9473000" />
     </task>
     <servers />
   </component>
